@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
+      "title": "*About this site*",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T16:31:02-04:00"
+      "contents": "\r\nAbout Me\r\nMy name is Joseph, I go to White Oaks Secondary School\r\nAbout the Project\r\nThis is for the final project\r\nGoals\r\nto create an interactive graph +allow the mouse to view the date when it goes on the line graph to have multiple graphs that effectively depict the data +have four graphs, one which depicts the entire data set and 3 which depicts different time periods “This is data science” ~ Preceptor ([“Kane’s Free High School Data Science Bootcamp”])\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-21T17:25:56-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T16:31:07-04:00"
+      "last_modified": "2021-06-21T17:26:01-04:00"
     }
   ],
   "collections": []
